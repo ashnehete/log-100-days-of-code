@@ -4,6 +4,6 @@
 
 **Thoughts:** First day inspired from #100DaysOfCode. Great way to start.
 
-**Link(s): **[Logger](https://github.com/ashnehete/100days)
+**Link(s):** [Logger](https://github.com/ashnehete/100days-logger)
 
 
