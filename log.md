@@ -15,3 +15,11 @@
 **Link(s):** [Youtube Video](https://www.youtube.com/watch?v=ZnRFerIP8aA&t=2s&list=WL&index=3&ab_channel=DevCoffee)
 
 
+### Day 3: 12 January, 2017 - Thursday
+**Today's Progress:** Continued React. Made a simple counter app.
+
+**Thoughts:** Learnt about props and states. Still figuring out where to use React.
+
+**Link(s):** [Codepen](http://codepen.io/ashnehete/pen/PWNogb)
+
+
