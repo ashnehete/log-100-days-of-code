@@ -23,3 +23,11 @@
 **Link(s):** [Codepen](http://codepen.io/ashnehete/pen/PWNogb)
 
 
+### Day 4: 14 January, 2017 - Saturday
+**Today's Progress:** Worked on Instamojo payment portal for a project.
+
+**Thoughts:** Learned about a new website, requestb.in. Really helpful for temp webhooks.
+
+**Link(s):** [RequestBin](http://requestb.in/)
+
+
