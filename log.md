@@ -31,3 +31,11 @@
 **Link(s):** [RequestBin](http://requestb.in/)
 
 
+### Day 5: 16 January, 2017 - Monday
+**Today's Progress:** ECMAScript and how it is JavaScript.
+
+**Thoughts:** JS is so confusing.
+
+**Link(s):** [What is ES6](http://benmccormick.org/2015/09/14/es5)
+
+
